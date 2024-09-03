@@ -1,0 +1,1 @@
+# Tradutor_Ruby_GoogleCloud
