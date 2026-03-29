@@ -2,4 +2,4 @@
 
 Projeto de teste
 
-Tradutor utilizando ruby puro e API do google cloud, e gems de requerimento e uso http.
+Tradutor utilizando ruby puro e API do google cloud, gems de requerimento e uso http.
